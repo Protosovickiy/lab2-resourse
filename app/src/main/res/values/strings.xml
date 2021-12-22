@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2_resources</string>
+    <string name="portraitView">Portrait view</string>
+    <string name="landscapeView">Landscape view</string>
+    <string name="textName">Protosovickiy Vyacheslav</string>
+    <string name="textSpeciality">Mobile development</string>
+    <string name="textGroup">Group №9</string>
+    <string name="textOrientation">unknown orientation</string>
+</resources>
